@@ -21,7 +21,7 @@ We love your input! We want to make contributing to this project as easy and tra
 - Add a upstream link to main branch in your cloned repo
 
     ```sh
-    git remote add upstream https://github.com/EimanTahir027/Parallel-and-Distributed-Computing.git
+    git remote add upstream https://github.com/EimanTahir027/Model-Tuning-and-Optimization.git
     ```
 
 - Keep your cloned repo upto date by pulling from upstream (this will also avoid any merge conflicts while committing new changes)
