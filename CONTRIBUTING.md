@@ -1,4 +1,4 @@
-# Contributing to  MCP-powered-Agentic-RAG:
+# Contributing to  Model-Tuning-and-Optimization:
 
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
