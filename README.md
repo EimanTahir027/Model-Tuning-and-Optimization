@@ -1,6 +1,5 @@
 # Model Tuning and Optimization
-
-**Stop guessing. Start tuning.**
+ <img src="images/2.gif" alt="IMAGE" style="width:100%; height:auto;" />
 
 Every machine learning model has a hidden set of dials — learning rates, tree depths, regularization strengths — waiting to be turned. Get them wrong and your model underperforms no matter how good the algorithm is. Get them right, and a decent model becomes a great one.
 
