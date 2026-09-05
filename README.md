@@ -30,6 +30,7 @@ Each day stacks on the last:
 ## 🎯 What You'll Walk Away With
 
 - A real understanding of *why* hyperparameters make or break model performance
+ <img src="images/1.png" alt="IMAGE" style="width:100%; height:auto;" />
 - The instincts to choose between Grid Search, Random Search, and Bayesian Optimization — not just how to run them
 - The ability to fight overfitting with regularization (L1, L2, Elastic Net, and friends)
 - Rock-solid model evaluation using cross-validation, so your results hold up outside the training set
