@@ -30,12 +30,22 @@ Each day stacks on the last:
 ## 🎯 What You'll Walk Away With
 
 - A real understanding of *why* hyperparameters make or break model performance
- <img src="images/1.png" alt="IMAGE" style="width:100%; height:auto;" />
+  <img src="images/1.png" alt="IMAGE" style="width:100%; height:auto;" />
+ 
 - The instincts to choose between Grid Search, Random Search, and Bayesian Optimization — not just how to run them
+  <img src="images/4.png" alt="IMAGE" style="width:100%; height:auto;" />
+ 
 - The ability to fight overfitting with regularization (L1, L2, Elastic Net, and friends)
+  <img src="images/5.png" alt="IMAGE" style="width:100%; height:auto;" />
+  
 - Rock-solid model evaluation using cross-validation, so your results hold up outside the training set
+   <img src="images/6.png" alt="IMAGE" style="width:100%; height:auto;" />
+   
 - The skills to automate the entire tuning process with `GridSearchCV` and `RandomizedSearchCV`
+   <img src="images/7.png" alt="IMAGE" style="width:100%; height:auto;" />
+   
 - A finished, fully-tuned model you built and optimized yourself — proof you can do this end-to-end
+   <img src="images/8.png" alt="IMAGE" style="width:100%; height:auto;" />
 
 ## 🛠️ Tech Stack
 
