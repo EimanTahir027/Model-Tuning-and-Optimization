@@ -1,9 +1,10 @@
 # Model Tuning and Optimization
+
  <img src="images/2.gif" alt="IMAGE" style="width:100%; height:auto;" />
 
 Every machine learning model has a hidden set of dials — learning rates, tree depths, regularization strengths — waiting to be turned. Get them wrong and your model underperforms no matter how good the algorithm is. Get them right, and a decent model becomes a great one.
 
-This repo is a 7-day, hands-on journey from brute-force search to smart, automated optimization. You'll go from manually sweeping through parameter grids to letting Bayesian methods do the thinking for you, pick up the regularization and validation skills that keep your tuning honest, and finish by building and optimizing a model of your own from scratch.
+This repo is a hands-on journey from brute-force search to smart, automated optimization. You'll go from manually sweeping through parameter grids to letting Bayesian methods do the thinking for you, pick up the regularization and validation skills that keep your tuning honest, and finish by building and optimizing a model of your own from scratch.
 
 ## 📋 Overview
 
